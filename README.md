@@ -1,2 +1,2 @@
-# index.html
+# Spotify Clone
 Spotify Clone
